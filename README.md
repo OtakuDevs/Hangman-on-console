@@ -1,15 +1,16 @@
-# Hangman on console
+# **Hangman - Console Game**
 
-### Game made by @Mokgul
-                       
-### Date: 8-8-2022
-                       
-### This game was made as a side project during my studies at Software University.
-                        
-### Time to complete: Between 8 and 10 hours
-                        
-### Credits to:
-                        
-#### Kaiser DMC - the menu layout
-                        
-### Thank you for playing !
+### **Developed by @Mokgul**  
+- **Date**: August 8, 2022  
+- **Time to Complete**: 8-10 hours  
+- **Project Type**: Side project during studies at Software University
+
+---
+
+### **Special Thanks To:**  
+- **Kaiser DMC** for the awesome menu layout design!
+
+---
+
+### **Thank You for Playing!**  
+This game was made as a fun way to improve my coding skills and to bring a little bit of nostalgia to life. Hope you enjoyed it! 🎮
